@@ -6,6 +6,11 @@ public class Shouter {
 		String shoutMessage = message.toUpperCase() + '!';
 		
 		System.out.println(shoutMessage);
+<<<<<<< Updated upstream
+=======
+		System.out.println(shoutMessage);
+		SYstem;
+>>>>>>> Stashed changes
 		
 	}
 	
