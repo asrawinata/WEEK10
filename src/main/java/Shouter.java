@@ -7,7 +7,7 @@ public class Shouter {
 		
 		System.out.println(shoutMessage);
 		System.out.println(shoutMessage);
-		dasdffafsf,ffjjsdfaf
+		Systemout.println(shoutMessage)
 	}
 	
 }
